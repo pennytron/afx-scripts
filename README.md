@@ -1,6 +1,7 @@
 # After Effects scripts to optimise workflows
 
-These are just some After Effects scripts I've made to optimise my, and my teams, workflows. They are small, but they might help!
+These are just some After Effects scripts I've made to optimise my, and my teams, workflows. They are small, but they might help!  
+See [SCRIPTS-LIST](https://github.com/pennytron/afx-scripts/blob/a5e106176579b9efcbf20983a77028607e8ec01a/SCRIPTS-LIST.md) for descriptions.
 
 # Free & Open, For the Community
 
